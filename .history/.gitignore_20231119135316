@@ -32,4 +32,3 @@ terraform.rc
 
  *.gitignore
  *.DS_Store
- *.history
